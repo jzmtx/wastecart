@@ -1,0 +1,2 @@
+# wastecart
+Small project 
